@@ -1,0 +1,80 @@
+2022/07/13 16:42
+condition: slow
+stimuli type: None  slow
+target color: red
+time: 10233
+shoot count: 25
+destroy target num : 6
+destrot untarget num : 0
+shooting score : 6
+
+2022/07/13 16:42
+condition: slow
+stimuli type: None  slow
+target color: red
+time: 16558
+shoot count: 40
+destroy target num : 11
+destrot untarget num : 3
+shooting score : 8
+
+2022/07/13 16:43
+condition: slow
+stimuli type: None  slow
+target color: red
+time: 10392
+shoot count: 32
+destroy target num : 6
+destrot untarget num : 2
+shooting score : 4
+
+2022/07/13 16:43
+condition: slow
+stimuli type: None  slow
+target color: red
+time: 16686
+shoot count: 62
+destroy target num : 12
+destrot untarget num : 3
+shooting score : 9
+
+2022/07/13 16:43
+condition: slow
+stimuli type: None  slow
+target color: red
+time: 20587
+shoot count: 78
+destroy target num : 17
+destrot untarget num : 3
+shooting score : 14
+///////////////////////////////////////////////////////////////////////////
+2022/07/13 16:48
+condition: fast
+stimuli type: OFFront  fast
+target color: red
+time: 10518
+shoot count: 35
+destroy target num : 6
+destrot untarget num : 8
+shooting score : -2
+
+2022/07/13 16:48
+condition: fast
+stimuli type: OFFront  fast
+target color: red
+time: 16547
+shoot count: 59
+destroy target num : 11
+destrot untarget num : 15
+shooting score : -4
+///////////////////////////////////////////////////////////////////////////
+2022/07/13 16:51
+condition: fast
+stimuli type: PoleStimuli  fast
+target color: red
+time: 4788
+shoot count: 15
+destroy target num : 6
+destrot untarget num : 2
+shooting score : 4
+

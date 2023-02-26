@@ -1,0 +1,8 @@
+2022/08/01 4:34
+stimuli type: OFFront  slow
+time: 9974
+shoot count: 0
+destroy target num : 0
+destrot untarget num : 0
+shooting score : 0
+

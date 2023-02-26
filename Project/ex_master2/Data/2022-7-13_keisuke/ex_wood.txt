@@ -1,0 +1,190 @@
+2022/07/13 16:48
+condition: fast
+stimuli type: OFFront  fast
+target color: red
+time: 10518
+shoot count: 35
+destroy target num : 6
+destrot untarget num : 8
+shooting score : -2
+
+2022/07/13 16:48
+condition: fast
+stimuli type: OFFront  fast
+target color: red
+time: 16547
+shoot count: 59
+destroy target num : 11
+destrot untarget num : 15
+shooting score : -4
+
+2022/07/13 16:55
+condition: fast
+stimuli type: PoleStimuli  fast
+target color: red
+time: 8585
+shoot count: 26
+destroy target num : 6
+destrot untarget num : 3
+shooting score : 3
+
+2022/07/13 16:55
+condition: fast
+stimuli type: PoleStimuli  fast
+target color: red
+time: 16383
+shoot count: 46
+destroy target num : 12
+destrot untarget num : 7
+shooting score : 5
+
+2022/07/13 16:57
+condition: fast
+stimuli type: None  fast
+target color: red
+time: 7777
+shoot count: 24
+destroy target num : 6
+destrot untarget num : 4
+shooting score : 2
+
+2022/07/13 16:57
+condition: fast
+stimuli type: None  fast
+target color: red
+time: 16690
+shoot count: 55
+destroy target num : 13
+destrot untarget num : 10
+shooting score : 3
+
+2022/07/13 16:59
+condition: slow
+stimuli type: PoleStimuli  slow
+target color: red
+time: 7450
+shoot count: 24
+destroy target num : 6
+destrot untarget num : 5
+shooting score : 1
+
+2022/07/13 16:59
+condition: slow
+stimuli type: PoleStimuli  slow
+target color: red
+time: 16593
+shoot count: 45
+destroy target num : 11
+destrot untarget num : 9
+shooting score : 2
+
+2022/07/13 17:01
+condition: slow
+stimuli type: OFBack  slow
+target color: red
+time: 8244
+shoot count: 25
+destroy target num : 6
+destrot untarget num : 4
+shooting score : 2
+
+2022/07/13 17:01
+condition: slow
+stimuli type: OFBack  slow
+target color: red
+time: 16774
+shoot count: 41
+destroy target num : 9
+destrot untarget num : 5
+shooting score : 4
+
+2022/07/13 17:01
+condition: slow
+stimuli type: OFBack  slow
+target color: red
+time: 22499
+shoot count: 42
+destroy target num : 9
+destrot untarget num : 5
+shooting score : 4
+
+2022/07/13 17:02
+condition: fast
+stimuli type: OFBack  fast
+target color: red
+time: 9588
+shoot count: 30
+destroy target num : 6
+destrot untarget num : 3
+shooting score : 3
+
+2022/07/13 17:02
+condition: fast
+stimuli type: OFBack  fast
+target color: red
+time: 16428
+shoot count: 51
+destroy target num : 12
+destrot untarget num : 7
+shooting score : 5
+
+2022/07/13 17:03
+condition: fast
+stimuli type: OFNone  fast
+target color: red
+time: 8417
+shoot count: 21
+destroy target num : 6
+destrot untarget num : 3
+shooting score : 3
+
+2022/07/13 17:04
+condition: fast
+stimuli type: OFNone  fast
+target color: red
+time: 16434
+shoot count: 52
+destroy target num : 12
+destrot untarget num : 5
+shooting score : 7
+
+2022/07/13 17:05
+condition: fast
+stimuli type: PoleNone  fast
+target color: red
+time: 6405
+shoot count: 24
+destroy target num : 6
+destrot untarget num : 4
+shooting score : 2
+
+2022/07/13 17:05
+condition: fast
+stimuli type: PoleNone  fast
+target color: red
+time: 16580
+shoot count: 59
+destroy target num : 13
+destrot untarget num : 16
+shooting score : -3
+
+2022/07/13 17:06
+condition: slow
+stimuli type: OFFront  slow
+target color: red
+time: 8580
+shoot count: 26
+destroy target num : 6
+destrot untarget num : 2
+shooting score : 4
+
+2022/07/13 17:06
+condition: slow
+stimuli type: OFFront  slow
+target color: red
+time: 16837
+shoot count: 48
+destroy target num : 12
+destrot untarget num : 5
+shooting score : 7
+

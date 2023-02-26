@@ -1,0 +1,117 @@
+2022/07/22 14:24
+condition: fast
+stimuli type: PoleNone  fast
+time: 10053
+shoot count: 0
+destroy target num : 0
+destrot untarget num : 0
+shooting score : 0
+
+2022/07/22 14:25
+condition: slow
+stimuli type: PoleNone  slow
+time: 9955
+shoot count: 0
+destroy target num : 0
+destrot untarget num : 0
+shooting score : 0
+
+2022/07/22 14:25
+condition: slow
+stimuli type: PoleStimuli  slow
+time: 10061
+shoot count: 0
+destroy target num : 0
+destrot untarget num : 0
+shooting score : 0
+
+2022/07/22 14:26
+condition: slow
+stimuli type: OFNone  slow
+time: 10030
+shoot count: 0
+destroy target num : 0
+destrot untarget num : 0
+shooting score : 0
+
+2022/07/22 14:27
+condition: slow
+stimuli type: OFNone  slow
+time: 10004
+shoot count: 0
+destroy target num : 0
+destrot untarget num : 0
+shooting score : 0
+
+2022/07/22 14:27
+condition: slow
+stimuli type: OFNone  slow
+time: 9995
+shoot count: 0
+destroy target num : 0
+destrot untarget num : 0
+shooting score : 0
+
+2022/07/22 14:28
+condition: slow
+stimuli type: OFBack  slow
+time: 7912
+shoot count: 24
+destroy target num : 6
+destrot untarget num : 4
+shooting score : 2
+
+2022/07/22 14:28
+condition: slow
+stimuli type: OFBack  slow
+time: 10087
+shoot count: 30
+destroy target num : 6
+destrot untarget num : 5
+shooting score : 1
+
+2022/07/22 14:31
+condition: fast
+stimuli type: OFBack  fast
+time: 10133
+shoot count: 25
+destroy target num : 3
+destrot untarget num : 2
+shooting score : 1
+
+2022/07/22 14:31
+condition: fast
+stimuli type: OFFront  fast
+time: 6158
+shoot count: 21
+destroy target num : 6
+destrot untarget num : 5
+shooting score : 1
+
+2022/07/22 14:32
+condition: fast
+stimuli type: OFFront  fast
+time: 10108
+shoot count: 37
+destroy target num : 8
+destrot untarget num : 5
+shooting score : 3
+
+2022/07/22 14:32
+condition: slow
+stimuli type: OFFront  slow
+time: 8732
+shoot count: 28
+destroy target num : 6
+destrot untarget num : 2
+shooting score : 4
+
+2022/07/22 14:32
+condition: slow
+stimuli type: OFFront  slow
+time: 10073
+shoot count: 31
+destroy target num : 6
+destrot untarget num : 4
+shooting score : 2
+

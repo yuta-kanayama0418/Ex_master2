@@ -1,0 +1,48 @@
+2022/09/05 14:00
+stimuli type: OFFront  slow
+time: 10276
+shoot count: 17
+destroy target num : 0
+destrot untarget num : 2
+shooting score : -2
+
+2022/09/05 14:00
+stimuli type: OFFront  slow
+time: 9898
+shoot count: 0
+destroy target num : 0
+destrot untarget num : 0
+shooting score : 0
+
+2022/09/05 14:01
+stimuli type: OFFront  slow
+time: 10044
+shoot count: 10
+destroy target num : 1
+destrot untarget num : 1
+shooting score : 0
+
+2022/09/05 14:01
+stimuli type: PoleStimuli  slow
+time: 10039
+shoot count: 8
+destroy target num : 2
+destrot untarget num : 0
+shooting score : 2
+
+2022/09/05 14:02
+stimuli type: OFBack  slow
+time: 9938
+shoot count: 12
+destroy target num : 1
+destrot untarget num : 1
+shooting score : 0
+
+2022/09/05 14:03
+stimuli type: OFFront  slow
+time: 10181
+shoot count: 12
+destroy target num : 3
+destrot untarget num : 0
+shooting score : 3
+

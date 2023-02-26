@@ -1,0 +1,45 @@
+2022/07/22 15:04
+condition: slow
+stimuli type: None  slow
+time: 11553
+shoot count: 53
+destroy target num : 6
+destrot untarget num : 0
+shooting score : 6
+
+2022/07/22 15:05
+condition: slow
+stimuli type: None  slow
+time: 7329
+shoot count: 15
+destroy target num : 6
+destrot untarget num : 1
+shooting score : 5
+
+2022/07/22 15:05
+condition: slow
+stimuli type: None  slow
+time: 16479
+shoot count: 32
+destroy target num : 12
+destrot untarget num : 4
+shooting score : 8
+
+2022/07/22 15:07
+condition: slow
+stimuli type: None  slow
+time: 9083
+shoot count: 21
+destroy target num : 6
+destrot untarget num : 3
+shooting score : 3
+
+2022/07/22 15:07
+condition: slow
+stimuli type: None  slow
+time: 16279
+shoot count: 37
+destroy target num : 11
+destrot untarget num : 4
+shooting score : 7
+

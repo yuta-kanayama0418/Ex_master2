@@ -1,0 +1,40 @@
+9/28/2022 4:27 PM
+stimuli type: None  slow
+time: 13811
+shoot count: 36
+destroy target num : 6
+destrot untarget num : 8
+shooting score : -2
+
+9/28/2022 4:27 PM
+stimuli type: None  slow
+time: 15169
+shoot count: 40
+destroy target num : 7
+destrot untarget num : 10
+shooting score : -3
+
+9/28/2022 4:28 PM
+stimuli type: None  slow
+time: 8059
+shoot count: 27
+destroy target num : 6
+destrot untarget num : 8
+shooting score : -2
+
+9/28/2022 4:28 PM
+stimuli type: None  slow
+time: 10085
+shoot count: 32
+destroy target num : 7
+destrot untarget num : 9
+shooting score : -2
+
+9/28/2022 5:08 PM
+stimuli type: None  slow
+time: 13275
+shoot count: 28
+destroy target num : 6
+destrot untarget num : 4
+shooting score : 2
+

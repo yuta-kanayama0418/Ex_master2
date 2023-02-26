@@ -1,0 +1,8 @@
+9/14/2022 4:02 PM
+stimuli type: None  slow
+time: 10057
+shoot count: 22
+destroy target num : 3
+destrot untarget num : 5
+shooting score : -2
+

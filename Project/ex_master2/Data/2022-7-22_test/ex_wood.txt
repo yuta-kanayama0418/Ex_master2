@@ -1,0 +1,9 @@
+2022/07/22 14:21
+condition: fast
+stimuli type: PoleStimuli  fast
+time: 10029
+shoot count: 0
+destroy target num : 0
+destrot untarget num : 0
+shooting score : 0
+

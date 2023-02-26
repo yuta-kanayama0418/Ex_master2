@@ -1,0 +1,216 @@
+2022/07/21 15:11
+condition: slow
+stimuli type: OFBack  slow
+time: 5298
+shoot count: 12
+destroy target num : 6
+destrot untarget num : 0
+shooting score : 6
+
+2022/07/21 15:11
+condition: slow
+stimuli type: OFBack  slow
+time: 16481
+shoot count: 48
+destroy target num : 16
+destrot untarget num : 8
+shooting score : 8
+
+2022/07/21 15:15
+condition: slow
+stimuli type: OFFront  slow
+time: 5591
+shoot count: 17
+destroy target num : 6
+destrot untarget num : 0
+shooting score : 6
+
+2022/07/21 15:15
+condition: slow
+stimuli type: OFFront  slow
+time: 16212
+shoot count: 47
+destroy target num : 18
+destrot untarget num : 7
+shooting score : 11
+
+2022/07/21 15:15
+condition: slow
+stimuli type: OFFront  slow
+time: 18732
+shoot count: 47
+destroy target num : 18
+destrot untarget num : 7
+shooting score : 11
+
+2022/07/21 15:15
+condition: slow
+stimuli type: OFFront  slow
+time: 19958
+shoot count: 47
+destroy target num : 18
+destrot untarget num : 7
+shooting score : 11
+
+2022/07/21 15:17
+condition: fast
+stimuli type: OFBack  fast
+time: 5687
+shoot count: 18
+destroy target num : 6
+destrot untarget num : 1
+shooting score : 5
+
+2022/07/21 15:17
+condition: fast
+stimuli type: OFBack  fast
+time: 16502
+shoot count: 55
+destroy target num : 18
+destrot untarget num : 3
+shooting score : 15
+
+2022/07/21 15:18
+condition: fast
+stimuli type: PoleNone  fast
+time: 7710
+shoot count: 27
+destroy target num : 6
+destrot untarget num : 1
+shooting score : 5
+
+2022/07/21 15:19
+condition: fast
+stimuli type: PoleNone  fast
+time: 16756
+shoot count: 57
+destroy target num : 17
+destrot untarget num : 3
+shooting score : 14
+
+2022/07/21 15:19
+condition: fast
+stimuli type: PoleNone  fast
+time: 17687
+shoot count: 58
+destroy target num : 17
+destrot untarget num : 3
+shooting score : 14
+
+2022/07/21 15:21
+condition: fast
+stimuli type: OFNone  fast
+time: 4351
+shoot count: 13
+destroy target num : 6
+destrot untarget num : 1
+shooting score : 5
+
+2022/07/21 15:21
+condition: fast
+stimuli type: OFNone  fast
+time: 16351
+shoot count: 46
+destroy target num : 18
+destrot untarget num : 2
+shooting score : 16
+
+2022/07/21 15:22
+condition: fast
+stimuli type: None  fast
+time: 5529
+shoot count: 19
+destroy target num : 6
+destrot untarget num : 0
+shooting score : 6
+
+2022/07/21 15:23
+condition: fast
+stimuli type: None  fast
+time: 16604
+shoot count: 49
+destroy target num : 18
+destrot untarget num : 4
+shooting score : 14
+
+2022/07/21 15:24
+condition: fast
+stimuli type: OFFront  fast
+time: 4615
+shoot count: 12
+destroy target num : 6
+destrot untarget num : 1
+shooting score : 5
+
+2022/07/21 15:24
+condition: fast
+stimuli type: OFFront  fast
+time: 16687
+shoot count: 50
+destroy target num : 17
+destrot untarget num : 1
+shooting score : 16
+
+2022/07/21 15:26
+condition: slow
+stimuli type: PoleStimuli  slow
+time: 4785
+shoot count: 15
+destroy target num : 6
+destrot untarget num : 0
+shooting score : 6
+
+2022/07/21 15:26
+condition: slow
+stimuli type: PoleStimuli  slow
+time: 16708
+shoot count: 62
+destroy target num : 17
+destrot untarget num : 7
+shooting score : 10
+
+2022/07/21 15:26
+condition: slow
+stimuli type: PoleStimuli  slow
+time: 23844
+shoot count: 69
+destroy target num : 18
+destrot untarget num : 7
+shooting score : 11
+
+2022/07/21 15:26
+condition: slow
+stimuli type: PoleStimuli  slow
+time: 28594
+shoot count: 69
+destroy target num : 18
+destrot untarget num : 7
+shooting score : 11
+
+2022/07/21 15:26
+condition: slow
+stimuli type: PoleStimuli  slow
+time: 31498
+shoot count: 69
+destroy target num : 18
+destrot untarget num : 7
+shooting score : 11
+
+2022/07/21 15:27
+condition: fast
+stimuli type: PoleStimuli  fast
+time: 4877
+shoot count: 20
+destroy target num : 6
+destrot untarget num : 3
+shooting score : 3
+
+2022/07/21 15:27
+condition: fast
+stimuli type: PoleStimuli  fast
+time: 16705
+shoot count: 57
+destroy target num : 18
+destrot untarget num : 3
+shooting score : 15
+

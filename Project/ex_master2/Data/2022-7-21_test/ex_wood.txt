@@ -1,0 +1,30 @@
+2022/07/21 14:10
+condition: slow
+stimuli type: PoleStimuli  slow
+target color: red
+time: 10562
+shoot count: 27
+destroy target num : 5
+destrot untarget num : 8
+shooting score : -3
+
+2022/07/21 14:25
+condition: slow
+stimuli type: OFFront  slow
+target color: red
+time: 10030
+shoot count: 0
+destroy target num : 0
+destrot untarget num : 0
+shooting score : 0
+
+2022/07/21 14:25
+condition: fast
+stimuli type: OFFront  fast
+target color: red
+time: 10006
+shoot count: 0
+destroy target num : 0
+destrot untarget num : 0
+shooting score : 0
+
